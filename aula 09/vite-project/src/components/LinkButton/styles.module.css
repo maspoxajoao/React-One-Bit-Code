@@ -1,9 +1,9 @@
 .wrapper {
-    background: rgb(66, 140, 209);
+    background: rgb(53, 1, 66);
     background: linear-gradient(
       45deg,
-      rgb(30, 112, 189) 10%,
-      rgb(124, 212, 235) 100%
+      rgb(128, 128, 128) 10%,
+      rgb(0, 0, 0) 100%
     );
     border-radius: 0.75rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
